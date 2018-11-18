@@ -1,0 +1,10 @@
+[package]
+name = "pyffi"
+version = "0.1.0"
+authors = ["Chris Pearce <cpearce@mozilla.com>"]
+
+[lib]
+name = "pyffi"
+crate-type = ["dylib"]
+
+[dependencies]
